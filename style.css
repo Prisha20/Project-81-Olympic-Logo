@@ -1,0 +1,19 @@
+h1
+{
+    color:yellow;
+    font-size: 40px;
+}
+
+.body_background
+{
+    background-image: url("pict.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#canvasproject
+{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
